@@ -32,6 +32,7 @@
 #include <G4Paraboloid.hh>
 #include <G4SubtractionSolid.hh>
 #include <G4VisAttributes.hh>
+#include "G4Sphere.hh"
 
 using namespace std;
 
