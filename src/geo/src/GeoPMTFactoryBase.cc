@@ -33,6 +33,7 @@
 #include <G4SubtractionSolid.hh>
 #include <G4VisAttributes.hh>
 #include "G4Sphere.hh"
+#include "G4PolyCone.hh"
 
 using namespace std;
 
